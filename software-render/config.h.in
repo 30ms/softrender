@@ -1,0 +1,2 @@
+#cmakedefine  VERSION_MAJOR @VERSION_MAJOR@
+#cmakedefine  VERSION_MINOR @VERSION_MINOR@
